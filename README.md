@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alumasinde
 - 👀 I’m interested in learning Front-end web design and UI design
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently working on a Gate Pass Management System project in PHP
 - 💞️ I’m looking to collaborate on creating visually appealing websites
 - 📫 Contact me on my email address alumasinde@gmail.com
 
